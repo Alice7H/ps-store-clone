@@ -1,27 +1,17 @@
-# Store
+# PlayStation Store Clone
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+Este projeto foi gerado com a versão 15.2.4 do [Angular CLI](https://github.com/angular/angular-cli).
 
-## Development server
+![Banner](./src/assets/banner.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Sobre o projeto
 
-## Code scaffolding
+A aplicação é um clone do template exibido pelo educador Felipe Aguiar, recriando a interface da PlayStation Store utilizando Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Servidor de desenvolvimento
 
-## Build
+Execute `ng serve` para usar o servidor de desenvolvimento e navegue até `http://localhost:4200/`. A aplicação será recarregada automaticamente se você alterar qualquer um dos arquivos fonte.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Mais ajuda
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para obter mais ajuda sobre a CLI do Angular, use `ng help` ou confira a página [Angular CLI Overview and Command Reference](https://angular.io/cli).
