@@ -1,0 +1,16 @@
+.home__container {
+  width: 90%;
+  margin: auto;
+  padding-top: 70px;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width:425px){
+  .home__container {
+    padding-top: 50px;
+  }
+}
